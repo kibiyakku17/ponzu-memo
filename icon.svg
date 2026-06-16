@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#f5f0e8"/>
+  <!-- Notebook -->
+  <rect x="100" y="90" width="270" height="330" rx="20" fill="#fdfaf5" stroke="#d9cfc0" stroke-width="8"/>
+  <!-- Binding line -->
+  <rect x="100" y="90" width="50" height="330" rx="0" fill="#c8deca"/>
+  <rect x="100" y="90" width="50" height="330" rx="20" fill="#c8deca"/>
+  <!-- Lines -->
+  <line x1="180" y1="170" x2="340" y2="170" stroke="#d9cfc0" stroke-width="8" stroke-linecap="round"/>
+  <line x1="180" y1="210" x2="340" y2="210" stroke="#d9cfc0" stroke-width="8" stroke-linecap="round"/>
+  <line x1="180" y1="250" x2="300" y2="250" stroke="#d9cfc0" stroke-width="8" stroke-linecap="round"/>
+  <!-- Pen -->
+  <g transform="translate(290,270) rotate(-35)">
+    <rect x="-12" y="-90" width="24" height="110" rx="6" fill="#e07b6a"/>
+    <polygon points="-12,20 12,20 0,50" fill="#c9604d"/>
+    <rect x="-12" y="-100" width="24" height="16" rx="4" fill="#9b87c0"/>
+  </g>
+</svg>
